@@ -2,6 +2,7 @@
 # Task 2 (Rows of stars)
 
 
+
 def rows_of_stars(numbers: list):
     return ["*" * number for number in numbers]
     
