@@ -1,8 +1,6 @@
 ##Recursion
 # Task 2 (Recursive sum)
 
-
-
 def recursive_sum(number: int):
     if number <= 1:
         return number
